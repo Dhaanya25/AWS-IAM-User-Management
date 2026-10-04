@@ -1,10 +1,10 @@
 ## User Management in AWS IAM
 
-## Project Overview
+## Abstract
 
-This project demonstrates secure user management using AWS Identity and Access Management (IAM).
+This project focuses on User Management in AWS using IAM (Identity and Access Management). It provides secure access to AWS resources by creating users, groups, and permissions based on different roles. Authentication and authorization are used to control user access, while Multi-Factor Authentication (MFA) provides additional security. The project follows the Principle of Least Privilege, ensuring that users receive only the permissions required for their tasks. This helps improve security and makes AWS resource management easier and more controlled.
 
-The project creates different IAM users and groups and assigns permissions based on their roles. Multi-Factor Authentication (MFA) is also enabled to improve account security.
+Keywords: AWS IAM, User Management, Authentication, Authorization, MFA, Least Privilege, Access Control.
 
 ## Objectives
 
